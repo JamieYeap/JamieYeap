@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @JamieYeap
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently self-learning Python
 
 <!---
 JamieYeap/JamieYeap is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
